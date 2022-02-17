@@ -28,7 +28,8 @@ To install one requires:
 ## Technologies used
 Technologies used are:
 * HTML5- Hyper-text markup Language to create structures of the web-page.
-* CSS3- Cascading Style sheet was used to style the page and its contents.
+* CSS3- Cascading Style sheet was used to style the page and the various sections.
+*Bootstrap - The use of bootstrap classes for buttons.
 ## License Information.
 It is governed by the MIT License.
 
